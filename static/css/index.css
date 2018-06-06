@@ -1,0 +1,23 @@
+ #slideFilter .slider-selection {
+     background: #BABABA;
+}
+ .slider-selection {
+     background: #ff8282;
+}
+ .slider-hander {
+     background: red;
+}
+ #page {
+     margin:auto;
+     width:80%;
+     padding:10px
+}
+
+html {
+	font-size: 14px;
+}
+
+.jsgrid-grid-header,
+.jsgrid-grid-body{
+        overflow: auto;
+}
